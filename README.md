@@ -7,4 +7,3 @@ My first git repository.
 - Installation
 - How to start
 - Description
-- Contributing
